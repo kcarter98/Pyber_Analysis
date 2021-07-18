@@ -16,7 +16,7 @@ Each city type ranked the same in terms of total rides, drivers, and fares. The 
 
 #### Average Fare per Ride and Driver
 
-When looking at the average fares per ride and driver, it was actually the opposite as the totals above. THe urban cities had the lowest average fare per ride and driver while the rural cities had the highest.
+When looking at the average fares per ride and driver, the way the city types ranked was actually the opposite as the totals above. The urban cities had the lowest average fare per ride and driver while the rural cities had the highest.
 
 #### Weekly Fares by City Type
 
